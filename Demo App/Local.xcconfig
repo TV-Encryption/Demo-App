@@ -1,0 +1,12 @@
+//
+//  Local.xcconfig
+//  Demo App
+//
+//  Created by Nicolas Da Mutten on 16.05.21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+AUTH_SERVER_URL = http:\/\/localhost:8002/api/token
+FAIRPLAY_SERVER_URL = http:\/\/localhost:8001/api/content-key
