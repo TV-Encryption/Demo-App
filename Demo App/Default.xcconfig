@@ -8,5 +8,5 @@
 // Configuration settings file format documentation can be found at:
 // https://help.apple.com/xcode/#/dev745c5c974
 
-AUTH_SERVER_URL = https:\/\/auth.ba-nicolas.init7.net/api/token
-FAIRPLAY_SERVER_URL = https:\/\/fairplayserver.ba-nicolas.init7.net/api/content-key
+AUTH_SERVER_URL = https:\/\/<auth-server.tld>/api/token
+FAIRPLAY_SERVER_URL = https:\/\/<fairplayserver.tld>/api/content-key

@@ -21,6 +21,7 @@ class ViewController: UIViewController {
 		super.viewDidLoad()
 		// Do any additional setup after loading the view.
 		self.keyManager = ZHAWKeyManager()
+		self.urlField.text = ""
 	}
 
 	// MARK: - Actions
